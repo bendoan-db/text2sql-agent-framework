@@ -1,0 +1,17 @@
+langchain
+langchain_core
+mlflow==2.18.0
+databricks-sql-connector
+sqlalchemy==2.0.36
+langchain-community
+openai
+langchain-openai
+langchain-databricks
+numexpr 
+pydantic
+databricks-sdk
+databricks-sql-connector
+flashrank
+sqlglot
+langgraph
+databricks-agents
