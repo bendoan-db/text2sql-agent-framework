@@ -1,4 +1,4 @@
-#Overview 
+# Overview 
 
 This archive is a self-contained quickstart for text2sql ReAct agents on Databricks. It provides Text2SQL question-answering functionality on financial datasets found in the `data_setup` directory
 
